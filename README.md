@@ -1,4 +1,4 @@
-## Hi there, I am titus Paul 👋
+## Hi there, I am Paul Nalenne 👋
 ##### Currently active in python and google cloud platform
 
 ## Connect with me:
