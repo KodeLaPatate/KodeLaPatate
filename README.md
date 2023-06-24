@@ -1,5 +1,5 @@
-## Hi there, I am titus efferian 👋
-##### Currently active in javascript and google cloud platform
+## Hi there, I am titus Paul 👋
+##### Currently active in python and google cloud platform
 
 ## Connect with me:
 
@@ -26,6 +26,6 @@
 
 <!-- <img width="120" src="https://media.tenor.com/images/0f0c75df4e8d5c1ceaefcc8af06895a8/tenor.gif" /> -->
 
-[linkedin]: https://www.linkedin.com/in/titus-efferian/
+[linkedin]: https://www.linkedin.com/in/paulnalenne/
 
-https://titusefferian.medium.com/
+https://kodelapatate.medium.com/
